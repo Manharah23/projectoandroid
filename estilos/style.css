@@ -107,9 +107,9 @@ div.video>iframe{
 }
 
  main img.pequena{
-width: 50%;
+width: 40%;
 display: block;
-max-width: 350px;
+max-width: 300px;
  }
 
 main a{
